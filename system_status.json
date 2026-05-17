@@ -1,0 +1,31 @@
+{
+  "system_status": "SOVEREIGNTY IN PERPETUITY",
+  "version": "3.2.0",
+  "architect": "MD. AL AMIN SOHAG",
+  "enterprise": "Salsabilah Amin Empires Ltd.",
+  "engine": "Digit Theory Engine v3.0",
+  "operational_mode": "Permanent Dark Mode",
+  "ledger_metrics": {
+    "total_sale_due_bdt": 1094264.61,
+    "critical_deadlines": [
+      {
+        "account_name": "MD. JOMSHED",
+        "amount_bdt": 42581.00,
+        "deadline": "2026-05-30",
+        "status": "PENDING"
+      },
+      {
+        "account_name": "TIPU SULTAN 🚨",
+        "amount_bdt": 45000.00,
+        "deadline": "2026-06-18",
+        "status": "PENDING"
+      },
+      {
+        "account_name": "MD. UJJOL 🚨",
+        "amount_bdt": 4882.00,
+        "deadline": "OVERDUE",
+        "status": "ACTION_REQUIRED"
+      }
+    ]
+  }
+}
